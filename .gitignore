@@ -1,1 +1,6 @@
 .pio/
+.vscode/
+.claude/
+
+# プライベート設定 (WiFi/APIキー) — 雛形は src/config.h.example
+src/config.h
